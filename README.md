@@ -12,6 +12,7 @@ Creating websockets to connect between users in chat application
  
  ```shell
   chmod +x deploy.sh
+  # ./deploy.sh main "This is sample commit message"
  ```
  > Then run ./deploy.sh <branch_name> <commit_message> to deploy changes to branch specified with given commit message
  
