@@ -1,2 +1,6 @@
-# chat-service
-Chat App Service for Web
+# websockets
+Creating websockets to connect between users in chat application
+
+ > Todo : build a message proto buf for chat communication between users
+ 
+ > Design Diagram of features of Chat application
